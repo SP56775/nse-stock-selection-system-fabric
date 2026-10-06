@@ -1,1 +1,0 @@
-# nse-stock-selection-system-fabric
