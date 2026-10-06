@@ -1,0 +1,6 @@
+style,screens_tested,total_picks,avg_screen_return_pct,stock_win_rate_vs_nifty_pct,best_screen_pct,worst_screen_pct,median_pick_return_pct,growth_data_source,sharpe_ratio,max_drawdown_pct,calmar_ratio
+GREENBLATT,4,60,4.9,56.7,7.65,2.36,2.07,93% Qtr YoY / 7% Ann CAGR,4.31,0,0
+BUFFETT,4,60,-0.95,41.7,4.04,-4.18,-1.15,93% Qtr YoY / 7% Ann CAGR,-0.5,-7.6,-0.12
+GRAHAM,4,60,8.07,75,11.08,5.22,7.01,100% Qtr YoY / 0% Ann CAGR,6.03,0,0
+ONEIL,4,60,2.49,51.7,15.48,-3.66,-1.32,73% Qtr YoY / 27% Ann CAGR,0.56,-6.58,0.38
+LYNCH,2,17,5.89,52.9,7.72,4.06,2.62,100% Qtr YoY / 0% Ann CAGR,4.56,0,0
