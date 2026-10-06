@@ -1,0 +1,14 @@
+﻿parameter,value
+history_start_date,1/1/2019
+min_price_history_days,260
+min_avg_daily_turnover_inr,10000000
+min_current_ratio,1.5
+max_debt_to_equity,1
+min_ocf_to_net_income,0.8
+min_eps_cagr_3y,0
+min_rs_rank,70
+max_distance_from_52w_high,-0.15
+min_quarterly_eps_yoy,0.2
+min_quarterly_sales_yoy,0.2
+max_stocks_per_sector,2
+target_candidate_count,15
