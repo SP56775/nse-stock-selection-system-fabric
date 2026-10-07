@@ -61,7 +61,6 @@ Unlike manual portfolio tracking, this system includes a **fully autonomous trad
 
 | Notebook | Purpose | Frequency |
 |---|---|---|
-| `NB00_Paper_Trading_Init` | One-time setup of simulation tables | Once |
 | `NB01_Universe_Ingestion` | Clean Nifty 500 list, exclude financials | Monthly |
 | `NB02_Price_Bronze_Ingestion` | Daily OHLCV ingestion with browser headers | Weekly |
 | `NB03_Fundamental_Bronze_Ingestion` | Multi-statement financials (P&L, BS, CF) | Weekly |
